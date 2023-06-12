@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patrimadriles
 - 👀 I’m interested in HTML, CSS and JavaScript.
 - 🌱 I’m currently learning UX/UI design.
-- 💞️ I’m looking to collaborate on small projects for starters.
+- 💞️ I’m looking to collaborate on small junior projects.
 - 📫 How to reach me: send an email to patrimadriles@gmail.com
 
 <!---
